@@ -1,0 +1,5 @@
+*.gguf
+.env
+*.wav
+*.mp3
+voice.py
