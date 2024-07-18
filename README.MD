@@ -4,4 +4,4 @@ use groqを押していない場合がollamaのローカルllmと会話するの
 使ったモデルはswallow-7b-instruct.Q4_K_M
 
 イメージ図
-！[](LLM.png)
+![](LLM.png)
